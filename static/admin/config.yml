@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: MJEngland/gatsby-starter-netlify-cms
+  repo: MJEngland/gatsbyTest
 
 media_folder: static/assets
 
